@@ -1,6 +1,6 @@
-# Hokie-2026
+# Broadcast-QA-2026
 
-**Hokie-2026** is a desktop QC portal for sports-graphics asset checks. It gives
+**Broadcast-QA-2026** is a desktop QC portal for sports-graphics asset checks. It gives
 operators a single dashboard to run automated quality-control scans across
 many sports and review the results without touching the command line.
 
@@ -12,7 +12,7 @@ many sports and review the results without touching the command line.
 > The actual code lives in a **private** repository.
 > **👉 Reach out to me directly if you need access.**
 
-![Hokie-2026 screenshot](screenshot.png)
+![Broadcast-QA-2026 screenshot](screenshot.png)
 
 ## What it does
 
